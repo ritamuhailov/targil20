@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background: whitesmoke;
+    color: white;
+}
+
+.fruit-search {
+    text-align: left;
+    list-style-type: none; 
+    padding-left: 0px;
+    padding-right: 300px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    width: 200px;
+    border-radius: 10px; 
+    background-image: url(https://www.pngarea.com/pngm/109/1164446_searchicon-png-search-icon-png-download.png); 
+    background-size: contain; 
+    background-repeat: no-repeat;
+    padding: 1% 6%;
+}
+
+.none {
+    text-align: left; 
+    list-style-type: none;
+    padding: 12px 0;
+    padding: 1%;
+    margin: 0.5em 0;
+    margin-right: 500px;
+    margin-left: 500px;
+    border-radius: 10px;
+    background-color: rgb(216, 76, 25);
+}
+
+.fruitX {
+    text-align: left; 
+    list-style-type: none;
+    padding: 12px 0; 
+    padding: 1%;
+    margin: 0.5em 0;
+    margin-right: 500px;
+    margin-left: 500px;
+    width: 350px;
+    border-radius: 10px;
+    background-color: rgb(33, 5, 156);
+}
